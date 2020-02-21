@@ -1,0 +1,180 @@
+
+// Body Styles 
+body,
+html, 
+.body {
+  background: #ffffff;
+  background-color:#ffffff;
+}
+
+.header-section{
+  background: #ffffff !important;
+  background-color: #ffffff;
+  .logo{
+    padding-top: 20px;
+  }
+  .hero-img{
+    padding-left: 0;
+  }
+}
+
+.total-price-section{
+  background: #ffffff;
+  background-color: #ffffff;
+  .total-price-title{
+    color: #444444;
+    font-size: 26px;
+    font-weight: 600;
+    text-align: center;
+  }
+  .total-price-text{
+    color: #444444;
+    font-size: 16px;
+    text-align: center;
+  }
+  .total-price{
+    color: #000000;
+    font-size: 16px;
+    text-align: center;
+    font-weight: 600;
+    padding-bottom: 10px;
+  }
+  .track-order-link{
+    margin-top: 10px;
+    color: #ffffff;
+    font-size: 16px;
+    padding-top: 14px;
+    padding-right: 50px;
+    padding-bottom: 14px;
+    padding-left: 50px;
+    background-color: #ff3008;
+    border-radius: 50px;
+    text-align: center;
+    text-decoration: none;
+    width: 200px;
+  }
+}
+
+.receipt-section{
+  background: #fdfdfd;
+  background-color: #fdfdfd;
+  .receipt-title{
+    color: #ff3008;
+    text-align: center;
+    font-size: 26px;
+  }
+  .receipt-text{
+    color:#444444;
+    display:block;
+    text-align: center;
+    span,.text-receipt-bold{
+      color:#666666;
+      text-align: center;
+      font-weight: 600;
+    }
+  }
+.receipt-text-for{
+    color:#666666;
+    text-align: center;
+    font-size: 13px;
+  }
+  .total-charged{
+    text-align: center;
+    font-weight: 600;
+    color: #000000;
+  }
+  .total-price{
+    text-align: center;
+    font-weight: 600;
+    color: #000000;
+  }
+}
+
+.help-section{
+  background: #ffffff;
+  background-color: #ffffff;
+  padding-bottom: 50px;
+  .help-title{
+    color: #666666;
+    font-size: 20px;
+    text-align: center;
+    font-weight: 600;
+  }
+  .help-text{
+    color: #666666;
+    text-align: center;
+    font-size: 18px;
+  }
+  .help-link{
+    color: #ff3008;
+    text-decoration: underline;
+    text-align: center;
+    font-size: 18px;
+  }
+}
+
+.refer-section{
+  background: #ffffff;
+  background-color: #ffffff;
+  .earn-ten{
+    color: #bedfe9;
+    font-size: 36px;
+    font-weight: 600;
+    text-align: center;
+  }
+  .earn-text{
+    color: #666666;
+    font-size: 16px;
+    text-align: center;
+  }
+  .earn-link{
+    color: #ffffff;
+    font-size: 16px;
+    padding-top: 14px;
+    padding-right: 50px;
+    padding-bottom: 14px;
+    padding-left: 50px;
+    background-color: #ff3008;
+    border-radius: 50px;
+    text-align: center;
+    text-decoration: none;
+    width: 200px;
+  }
+}
+
+.download-section{
+  background: #ffffff;
+  background-color: #ffffff;
+  .download-title{
+    color: #666666;
+    font-size: 16px;
+    text-align: center;
+    font-weight: 600;
+  }
+  .download-text{
+    color: #666666;
+    font-size: 16px;
+    text-align: center;
+    .download-link{
+      color: #ff3008;
+    }
+  }
+}
+
+.footer-section{
+  background: #ffffff;
+  background-color: #ffffff;
+  .footer-text-address a {
+    color: #999999;
+    font-size: 14px;
+    text-align: center;
+    text-decoration: none;
+    display: block;
+  }
+  .footer-text,.footer-link{
+    color: #999999;
+    font-size: 14px;
+    text-align: center;
+    text-decoration: none;
+  }
+}
